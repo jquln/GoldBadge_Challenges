@@ -75,7 +75,7 @@ namespace KomodoCafeMenu_Repository
         {
             foreach (Menu meal in _listOfMeal)
             {
-                if (meal.MealNumber == number)
+                if (meal.MealNumber.ToLower() == number.ToLower())
                 {
                     return meal;
                 }

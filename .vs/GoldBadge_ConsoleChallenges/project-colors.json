@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba16d98e-f709-4f8c-9f51-16ef01b66757": {
+      "ProjectGuid": "ba16d98e-f709-4f8c-9f51-16ef01b66757",
+      "DisplayName": "GoldBadge_ConsoleChallenges",
+      "ColorIndex": 0
+    },
+    "66e4ac38-d72a-4929-86ea-692db1ec1460": {
+      "ProjectGuid": "66e4ac38-d72a-4929-86ea-692db1ec1460",
+      "DisplayName": "KomodoCafeMenu_Console",
+      "ColorIndex": 1
+    },
+    "d0abb07e-b1fb-4136-925c-e804761c1fe3": {
+      "ProjectGuid": "d0abb07e-b1fb-4136-925c-e804761c1fe3",
+      "DisplayName": "KomodoCafeMenuRepo_UnitTest",
+      "ColorIndex": 2
+    },
+    "5c0b1c7a-c284-4cd2-83c8-b5db3df56589": {
+      "ProjectGuid": "5c0b1c7a-c284-4cd2-83c8-b5db3df56589",
+      "DisplayName": "KomodoCafeMenu_Repository",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

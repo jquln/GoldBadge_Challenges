@@ -10,6 +10,12 @@ namespace KomodoCafeMenu
     {
         static void Main(string[] args)
         {
+            Menu_UI program = new Menu_UI();
+            
+            program.Run(); 
+
+
+
         }
     }
 }
