@@ -1,0 +1,8 @@
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\bin\Debug\00_JunkYard.exe.config
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\bin\Debug\00_JunkYard.exe
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\bin\Debug\00_JunkYard.pdb
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\obj\Debug\00_JunkYard.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\obj\Debug\00_JunkYard.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\obj\Debug\00_JunkYard.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\obj\Debug\00_JunkYard.exe
+C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\00_JunkYard\obj\Debug\00_JunkYard.pdb
