@@ -15,7 +15,7 @@ namespace KomodoCafeMenu_UnitTest
         public void Arrange()
         {
             _repo = new MenuRepository();
-            _meal = new Menu("Combo #1", "name", "description", "ingredients", 0.00m);
+            _meal = new Menu("Combo #1", "name", "description", "ingredients", 0.00d);
 
             _repo.AddMealsToList(_meal);
 
@@ -47,7 +47,7 @@ namespace KomodoCafeMenu_UnitTest
         {
             // Arrange
             // TestInitialize
-            Menu newMeal = new Menu("Combo #2", "name", "description", "ingredients", 3.00m);
+            Menu newMeal = new Menu("Combo #2", "name", "description", "ingredients", 3.00d);
 
             // Act
             bool updateResult = _repo.UpdateExistingMenu("Combo #1", newMeal);
@@ -64,7 +64,7 @@ namespace KomodoCafeMenu_UnitTest
         {
             // Arrange
             // TestInitialize
-            Menu newMeal = new Menu("Combo #2", "name", "description", "ingredients", 3.00m);
+            Menu newMeal = new Menu("Combo #2", "name", "description", "ingredients", 3.00d);
 
             // Act
             bool updateResult = _repo.UpdateExistingMenu(originalNumber, newMeal);

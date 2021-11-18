@@ -25,7 +25,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "9cae5cb0-c458-4d8d-a599-eb714f0fed55": {
+      "ProjectGuid": "9cae5cb0-c458-4d8d-a599-eb714f0fed55",
+      "DisplayName": "KomodoClaims_Repository",
+      "ColorIndex": 4
+    },
+    "eaaa0dad-8b17-468b-a574-97bb62e005ad": {
+      "ProjectGuid": "eaaa0dad-8b17-468b-a574-97bb62e005ad",
+      "DisplayName": "KomodoClaims_Console",
+      "ColorIndex": 5
+    },
+    "77e8d552-7c9c-4380-b386-7a28d163e00b": {
+      "ProjectGuid": "77e8d552-7c9c-4380-b386-7a28d163e00b",
+      "DisplayName": "KomodoClaims_UnitTests",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }

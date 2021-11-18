@@ -8,4 +8,3 @@ C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\KomodoCafeMenu\obj\Debug\Komo
 C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\KomodoCafeMenu\obj\Debug\KomodoCafeMenu.pdb
 C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\KomodoCafeMenu\bin\Debug\KomodoCafeMenu_Repository.dll
 C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\KomodoCafeMenu\bin\Debug\KomodoCafeMenu_Repository.pdb
-C:\ElevenFiftyProjects\GoldBadge_ConsoleChallenges\KomodoCafeMenu\obj\Debug\KomodoCafeMenu_Console.csproj.CopyComplete
