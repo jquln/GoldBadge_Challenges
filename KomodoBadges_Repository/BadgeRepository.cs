@@ -10,6 +10,7 @@ namespace KomodoBadges_Repository
     {
         Dictionary<int, Badge> _badgeDB = new Dictionary<int, Badge>();
         int _count = 0;
+
         public bool AddBadge(Badge badge)
         {
             if (badge == null)

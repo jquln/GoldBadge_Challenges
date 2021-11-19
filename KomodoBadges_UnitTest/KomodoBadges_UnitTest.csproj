@@ -49,11 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BadgesRepositoryTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KomodoBadges_Repository\KomodoBadges_Repository.csproj">
+      <Project>{FAF8F5B3-44D3-4B24-BB05-76E9E7339106}</Project>
+      <Name>KomodoBadges_Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KomodoClaims_Repository\KomodoClaims_Repository.csproj">
+      <Project>{9cae5cb0-c458-4d8d-a599-eb714f0fed55}</Project>
+      <Name>KomodoClaims_Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
